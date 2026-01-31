@@ -78,4 +78,4 @@ Le produit final **`ANALYTICS.MARKETING_DATAPRODUCT`** est prêt pour la consomm
 3.  **Visualisation :** Connecter l'application Streamlit (fournie dans `/streamlit`) pour visualiser les KPIs.
 
 ---
-*Auteur : [Ton Nom] - Projet de Validation Technique*
+*Auteur : Thomas, Linh, Jeff, Irmeline, Milaine
